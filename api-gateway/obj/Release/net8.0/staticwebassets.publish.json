@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zOyJwF8bHhHsAdY3NroSp9RMuuTPlfgrtE/RedGlgv4=",
+  "Source": "api-gateway",
+  "BasePath": "_content/api-gateway",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

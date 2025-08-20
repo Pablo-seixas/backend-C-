@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WH5U11CucsWV+ofgEUE62kkUEmvWwqXJg3SA3EIueRtasJmIf/FYPCAPuxZkupaYCsuDQf+GZ7nTUXDTE9gu+g==",
+  "success": true,
+  "projectFilePath": "/home/seixas/Documentos/backend projeto/api-gateway/api-gateway.csproj",
+  "expectedPackageFiles": [
+    "/home/seixas/.nuget/packages/system.io.hashing/8.0.0/system.io.hashing.8.0.0.nupkg.sha512",
+    "/home/seixas/.nuget/packages/yarp.reverseproxy/2.3.0/yarp.reverseproxy.2.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

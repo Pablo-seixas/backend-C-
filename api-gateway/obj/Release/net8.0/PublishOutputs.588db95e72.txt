@@ -1,0 +1,10 @@
+/home/seixas/Documentos/backend projeto/publish/api-gateway
+/home/seixas/Documentos/backend projeto/publish/appsettings.Development.json
+/home/seixas/Documentos/backend projeto/publish/appsettings.json
+/home/seixas/Documentos/backend projeto/publish/Config/yarp.json
+/home/seixas/Documentos/backend projeto/publish/api-gateway.dll
+/home/seixas/Documentos/backend projeto/publish/api-gateway.deps.json
+/home/seixas/Documentos/backend projeto/publish/api-gateway.runtimeconfig.json
+/home/seixas/Documentos/backend projeto/publish/api-gateway.pdb
+/home/seixas/Documentos/backend projeto/publish/System.IO.Hashing.dll
+/home/seixas/Documentos/backend projeto/publish/Yarp.ReverseProxy.dll
