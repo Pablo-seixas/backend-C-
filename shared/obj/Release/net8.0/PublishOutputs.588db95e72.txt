@@ -1,0 +1,3 @@
+/home/seixas/Documentos/backend projeto/publish/shared.dll
+/home/seixas/Documentos/backend projeto/publish/shared.deps.json
+/home/seixas/Documentos/backend projeto/publish/shared.pdb

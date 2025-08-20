@@ -1,0 +1,11 @@
+/home/seixas/Documentos/backend projeto/shared/bin/Debug/net8.0/shared.deps.json
+/home/seixas/Documentos/backend projeto/shared/bin/Debug/net8.0/shared.dll
+/home/seixas/Documentos/backend projeto/shared/bin/Debug/net8.0/shared.pdb
+/home/seixas/Documentos/backend projeto/shared/obj/Debug/net8.0/shared.GeneratedMSBuildEditorConfig.editorconfig
+/home/seixas/Documentos/backend projeto/shared/obj/Debug/net8.0/shared.AssemblyInfoInputs.cache
+/home/seixas/Documentos/backend projeto/shared/obj/Debug/net8.0/shared.AssemblyInfo.cs
+/home/seixas/Documentos/backend projeto/shared/obj/Debug/net8.0/shared.csproj.CoreCompileInputs.cache
+/home/seixas/Documentos/backend projeto/shared/obj/Debug/net8.0/shared.dll
+/home/seixas/Documentos/backend projeto/shared/obj/Debug/net8.0/refint/shared.dll
+/home/seixas/Documentos/backend projeto/shared/obj/Debug/net8.0/shared.pdb
+/home/seixas/Documentos/backend projeto/shared/obj/Debug/net8.0/ref/shared.dll
