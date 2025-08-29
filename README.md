@@ -11,7 +11,6 @@ Certifique-se de estar na raiz do projeto e execute:
 ```bash
 dotnet run
 ```
-
 ---
 
 ##  Listar todos os produtos
