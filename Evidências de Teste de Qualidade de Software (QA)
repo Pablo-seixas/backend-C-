@@ -1,0 +1,55 @@
+Este documento apresenta os resultados dos testes de performance realizados como parte da análise de qualidade de software da API de estoque. Os testes foram executados utilizando a ferramenta ApacheBench (ab) para gerar métricas de desempenho sob carga e concorrência.
+
+Objetivo do Teste
+
+Avaliar o comportamento da API em termos de:
+
+Capacidade de resposta sob múltiplas requisições simultâneas
+
+Latência média e máxima das requisições
+
+Estabilidade e confiabilidade do serviço
+
+Configuração do Teste
+
+Endpoint testado: /qa/test-estoque/
+
+Servidor: Kestrel (localhost:5185)
+
+Total de requisições: 1000
+
+Concorrência: 50 requisições simultâneas
+
+Resultados
+
+Requests por segundo: 8011,47
+
+Tempo médio por request: 6,24 ms
+
+Tempo médio real por request (considerando concorrência): 0,125 ms
+
+Total de dados transferidos: 118 KB
+
+Falhas: 0 requisições
+
+Responses não 2xx: 1000
+
+Distribuição de Latência
+
+Mínimo: 3 ms
+
+Média: 6 ms
+
+Máximo: 11 ms
+
+Percentis:
+
+50% das requisições concluídas em até 6 ms
+
+90% das requisições concluídas em até 8 ms
+
+100% das requisições concluídas em até 11 ms
+
+Conclusão
+
+O teste evidencia que a API responde rapidamente mesmo sob carga elevada, sem apresentar falhas ou instabilidades. Os resultados demonstram um desempenho confiável, servindo como prova de QA para documentação técnica, apresentações ou portfólio profissional.
